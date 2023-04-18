@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "author": "Anatoly Melnik",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
